@@ -22,3 +22,5 @@ for (const planet of planets){
     const section = document.querySelector(".listPlanets");
     section?.appendChild(planetDiv);
 }
+
+//n;qsn
